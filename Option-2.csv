@@ -1,0 +1,721 @@
+,Country,State
+0,Afghanistan,Nuristan
+1,Albania,Tepelenë District
+2,Albania,Tirana District
+3,Albania,Tropojë District
+4,Algeria,Aïn Defla
+5,Algeria,Annaba
+6,Algeria,Illizi
+7,Algeria,Mostaganem
+8,Algeria,Sidi Bel Abbès
+9,Algeria,Souk Ahras
+10,Algeria,Tamanghasset
+11,Algeria,Tiaret
+12,Algeria,Tissemsilt
+13,Algeria,Touggourt
+14,Andorra,Andorra la Vella
+15,Andorra,Ordino
+16,Argentina,Neuquén
+17,Argentina,San Luis
+18,Azerbaijan,Tartar District
+19,Azerbaijan,Tovuz District
+20,Bangladesh,Northern
+21,Barbados,Tangail District
+22,Barbados,Thakurgaon District
+23,Belarus,Saint James
+24,Belarus,Saint Thomas
+25,Benin,Toledo District
+26,Bhutan,Saint George's
+27,Bhutan,Sandys
+28,Bhutan,Smith's
+29,Bolivia,Thimphu District
+30,Bolivia,Trashigang District
+31,Bolivia,Trongsa District
+32,Bolivia,Tsirang District
+33,"Bonaire, Sint Eustatius and Saba",Tarija Department
+34,New Caledonia,Sint Eustatius
+35,Brunei,Temburong District
+36,Brunei,Tutong District
+37,Cameroon,Adamawa
+38,Cameroon,Littoral
+39,Canada,Alberta
+40,Canada,Ontario
+41,Cape Verde,São Domingos
+42,Cape Verde,São Lourenço dos Órgãos
+43,Cape Verde,Sotavento Islands
+44,Chad,Logone Occidental
+45,Chad,Logone Oriental
+46,Chile,Antofagasta
+47,Chile,Arica y Parinacota
+48,Chile,Atacama
+49,China,Guangdong
+50,China,Guangxi Zhuang
+51,Colombia,Antioquia
+52,Colombia,Arauca
+53,Colombia,"Archipiélago de San Andrés, Providencia y Santa Catalina"
+54,Czech Republic,Jihočeský kraj
+55,Czech Republic,Jihomoravský kraj
+56,Czech Republic,Nový Jičín
+57,Czech Republic,Ostrava-město
+58,Czech Republic,Vyškov
+59,Cook Islands,Ituri
+60,Democratic Republic of the Congo,North Denmark Region
+61,Dominica,El Seibo Province
+62,Dominica,Espaillat Province
+63,Dominica,San Pedro de Macorís
+64,East Timor,Santo Domingo de los Tsáchilas
+65,East Timor,Sucumbíos
+66,Ecuador,Alexandria
+67,Equatorial Guinea,Northern Red Sea Region
+68,Estonia,Addis Ababa
+69,Faroe Islands,Northern Division
+70,Finland,Essonne
+71,Finland,Eure
+72,Finland,Seine-Saint-Denis
+73,Finland,Territoire de Belfort
+74,French Southern Territories,Estuaire Province
+75,Gabon,North Bank Division
+76,Gambia The,Abkhazia
+77,Gambia The,Adjara
+78,Gambia The,Imereti
+79,Germany,Northern
+80,Gibraltar,East Macedonia and Thrace
+81,Gibraltar,Thessaloniki Regional Unit
+82,Guam,Totonicapán Department
+83,Guernsey and Alderney,Nzérékoré Region
+84,Guinea-Bissau,East Berbice-Corentyne
+85,Hungary,Northeastern Region
+86,Hungary,Northwestern Region
+87,Iceland,Himachal Pradesh
+88,Iceland,Mizoram
+89,Indonesia,North Khorasan
+90,Iran,Al Muthanna
+91,Iran,Kirkuk
+92,Iraq,Wicklow
+93,Ireland,Tel Aviv District
+94,Israel,Alessandria
+95,Israel,Ancona
+96,Israel,Apulia
+97,Israel,Oristano
+98,Italy,Hanover Parish
+99,Jamaica,Ehime Prefecture
+100,Jersey,Aqaba
+101,Jersey,Karak
+102,Jordan,North Kazakhstan Region
+103,Jordan,Nur-Sultan
+104,Kazakhstan,Uasin Gishu
+105,Kuwait,Al Jahra
+106,Kyrgyzstan,Naryn Region
+107,Lesotho,Thaba-Tseka District
+108,Libya,Tripoli District
+109,Malaysia,Northern Region
+110,Malaysia,Thyolo District
+111,Maldives,Negeri Sembilan
+112,Mali,Laamu Atoll
+113,Mali,Lhaviyani Atoll
+114,Man (Isle of),St. Julian's
+115,Mauritius,Assaba
+116,Mauritius,Inchiri
+117,Mauritius,Tagant
+118,Mayotte,Saint Brandon Islands
+119,Micronesia,Nuevo León
+120,Monaco,Taraclia District
+121,Monaco,Telenești District
+122,Monaco,Transnistria autonomous territorial unit
+123,Mozambique,Al Hoceïma
+124,Mozambique,L'Oriental
+125,Mozambique,Taourirt
+126,Mozambique,Taroudannt
+127,Mozambique,Tiznit
+128,New Zealand,Sint Eustatius
+129,Niger,Nelson Region
+130,Niger,Northland Region
+131,Niger,Tasman District
+132,Norfolk Island,Abia
+133,Norfolk Island,Adamawa
+134,Norfolk Island,Anambra
+135,Norfolk Island,Ondo
+136,Norfolk Island,Oyo
+137,Norway,Oslo
+138,Oman,Al Wusta
+139,Oman,Musandam
+140,Papua new Guinea,Eastern Highlands Province
+141,Papua new Guinea,Enga Province
+142,Peru,Arequipa
+143,Philippines,Abra
+144,Philippines,Aurora
+145,Philippines,Occidental Mindoro
+146,Philippines,Oriental Mindoro
+147,Poland,Podkarpackie Voivodeship
+148,Poland,Podlaskie Voivodeship
+149,Poland,Pomeranian Voivodeship
+150,Puerto Rico,Aguada
+151,Puerto Rico,Aguadilla
+152,Puerto Rico,Salinas
+153,Qatar,Al-Shahaniya
+154,Romania,Alba
+155,Russia,Chechen Republic
+156,Russia,Chuvash Republic
+157,Russia,Tambov Oblast
+158,Russia,Tomsk Oblast
+159,Russia,Tula Oblast
+160,Russia,Tver Oblast
+161,Russia,Tyumen Oblast
+162,Rwanda,Eastern Province
+163,Saint Kitts And Nevis,Saint Kitts
+164,Samoa,A'ana
+165,Samoa,Atua
+166,San Marino,Acquaviva
+167,Saudi Arabia,Eastern Province
+168,Saudi Arabia,Najran
+169,Senegal,Kaolack
+170,Senegal,Matam
+171,Senegal,Saint-Louis
+172,Serbia,Toplica District
+173,Seychelles,Saint Louis
+174,Sierra Leone,Eastern Province
+175,Sint Maarten (Dutch part),Nitra Region
+176,Somalia,Eastern Cape
+177,Somalia,Gauteng
+178,South Korea,A Coruña
+179,South Korea,Almeria
+180,South Korea,Araba
+181,South Sudan,Eastern Province
+182,South Sudan,Trincomalee District
+183,Spain,North Kordofan
+184,Spain,Northern
+185,Swaziland,Nidwalden
+186,Sweden,As-Suwayda
+187,Taiwan,Arusha
+188,Tajikistan,Maha Sarakham
+189,Tajikistan,Nakhon Sawan
+190,Tajikistan,Nan
+191,Tajikistan,Trat
+192,Bahrain,South Andros
+193,Bahrain,Spanish Wells
+194,Togo,Arima
+195,Tokelau,Ariana
+196,Tonga,Adana
+197,Tonga,Amasya
+198,Tonga,Ankara
+199,Tonga,Antalya
+200,Tonga,Edirne
+201,Tonga,Karabük
+202,Tonga,Sivas
+203,Tonga,Tokat
+204,Turkmenistan,Northern Region
+205,Turkmenistan,Tororo District
+206,Turks And Caicos Islands,Autonomous Republic of Crimea
+207,Turks And Caicos Islands,Ternopilska oblast
+208,Uganda,East Ayrshire
+209,Uganda,East Dunbartonshire
+210,Uganda,East Renfrewshire
+211,Uganda,East Riding of Yorkshire
+212,Uganda,Larne Borough Council
+213,Uganda,Limavady Borough Council
+214,Uganda,Lisburn City Council
+215,Uganda,Liverpool
+216,Uganda,Mid and East Antrim
+217,Uganda,"Newry, Mourne and Down"
+218,Uganda,Scottish Borders
+219,Uganda,Shetland Islands
+220,Uganda,St Helens
+221,Uganda,Stockton-on-Tees
+222,Ukraine,Alabama
+223,Ukraine,Alaska
+224,Ukraine,American Samoa
+225,Ukraine,Arizona
+226,Ukraine,Ohio
+227,United States,Namangan Region
+228,United States,Navoiy Region
+229,United States,Tashkent
+230,Uzbekistan,Aragua
+231,Uzbekistan,Yaracuy
+232,Vanuatu,Hà Tĩnh
+233,Vanuatu,Hồ Chí Minh
+234,Vanuatu,Hòa Bình
+235,Vanuatu,Nghệ An
+236,Vanuatu,Ninh Thuận
+237,Venezuela,Saint Thomas
+238,Virgin Islands (US),Hajjah
+239,Wallis And Futuna Islands,Eastern Province
+240,Afghanistan,Nuristan
+241,Albania,Tepelenë District
+242,Albania,Tirana District
+243,Albania,Tropojë District
+244,Algeria,Aïn Defla
+245,Algeria,Annaba
+246,Algeria,Illizi
+247,Algeria,Mostaganem
+248,Algeria,Sidi Bel Abbès
+249,Algeria,Souk Ahras
+250,Algeria,Tamanghasset
+251,Algeria,Tiaret
+252,Algeria,Tissemsilt
+253,Algeria,Touggourt
+254,Andorra,Andorra la Vella
+255,Andorra,Ordino
+256,Argentina,Neuquén
+257,Argentina,San Luis
+258,Azerbaijan,Tartar District
+259,Azerbaijan,Tovuz District
+260,Bangladesh,Northern
+261,Barbados,Tangail District
+262,Barbados,Thakurgaon District
+263,Belarus,Saint James
+264,Belarus,Saint Thomas
+265,Benin,Toledo District
+266,Bhutan,Saint George's
+267,Bhutan,Sandys
+268,Bhutan,Smith's
+269,Bolivia,Thimphu District
+270,Bolivia,Trashigang District
+271,Bolivia,Trongsa District
+272,Bolivia,Tsirang District
+273,"Bonaire, Sint Eustatius and Saba",Tarija Department
+274,New Caledonia,Sint Eustatius
+275,Brunei,Temburong District
+276,Brunei,Tutong District
+277,Cameroon,Adamawa
+278,Cameroon,Littoral
+279,Canada,Alberta
+280,Canada,Ontario
+281,Cape Verde,São Domingos
+282,Cape Verde,São Lourenço dos Órgãos
+283,Cape Verde,Sotavento Islands
+284,Chad,Logone Occidental
+285,Chad,Logone Oriental
+286,Chile,Antofagasta
+287,Chile,Arica y Parinacota
+288,Chile,Atacama
+289,China,Guangdong
+290,China,Guangxi Zhuang
+291,Colombia,Antioquia
+292,Colombia,Arauca
+293,Colombia,"Archipiélago de San Andrés, Providencia y Santa Catalina"
+294,Czech Republic,Jihočeský kraj
+295,Czech Republic,Jihomoravský kraj
+296,Czech Republic,Nový Jičín
+297,Czech Republic,Ostrava-město
+298,Czech Republic,Vyškov
+299,Cook Islands,Ituri
+300,Democratic Republic of the Congo,North Denmark Region
+301,Dominica,El Seibo Province
+302,Dominica,Espaillat Province
+303,Dominica,San Pedro de Macorís
+304,East Timor,Santo Domingo de los Tsáchilas
+305,East Timor,Sucumbíos
+306,Ecuador,Alexandria
+307,Equatorial Guinea,Northern Red Sea Region
+308,Estonia,Addis Ababa
+309,Faroe Islands,Northern Division
+310,Finland,Essonne
+311,Finland,Eure
+312,Finland,Seine-Saint-Denis
+313,Finland,Territoire de Belfort
+314,French Southern Territories,Estuaire Province
+315,Gabon,North Bank Division
+316,Gambia The,Abkhazia
+317,Gambia The,Adjara
+318,Gambia The,Imereti
+319,Germany,Northern
+320,Gibraltar,East Macedonia and Thrace
+321,Gibraltar,Thessaloniki Regional Unit
+322,Guam,Totonicapán Department
+323,Guernsey and Alderney,Nzérékoré Region
+324,Guinea-Bissau,East Berbice-Corentyne
+325,Hungary,Northeastern Region
+326,Hungary,Northwestern Region
+327,Iceland,Himachal Pradesh
+328,Iceland,Mizoram
+329,Indonesia,North Khorasan
+330,Iran,Al Muthanna
+331,Iran,Kirkuk
+332,Iraq,Wicklow
+333,Ireland,Tel Aviv District
+334,Israel,Alessandria
+335,Israel,Ancona
+336,Israel,Apulia
+337,Israel,Oristano
+338,Italy,Hanover Parish
+339,Jamaica,Ehime Prefecture
+340,Jersey,Aqaba
+341,Jersey,Karak
+342,Jordan,North Kazakhstan Region
+343,Jordan,Nur-Sultan
+344,Kazakhstan,Uasin Gishu
+345,Kuwait,Al Jahra
+346,Kyrgyzstan,Naryn Region
+347,Lesotho,Thaba-Tseka District
+348,Libya,Tripoli District
+349,Malaysia,Northern Region
+350,Malaysia,Thyolo District
+351,Maldives,Negeri Sembilan
+352,Mali,Laamu Atoll
+353,Mali,Lhaviyani Atoll
+354,Man (Isle of),St. Julian's
+355,Mauritius,Assaba
+356,Mauritius,Inchiri
+357,Mauritius,Tagant
+358,Mayotte,Saint Brandon Islands
+359,Micronesia,Nuevo León
+360,Monaco,Taraclia District
+361,Monaco,Telenești District
+362,Monaco,Transnistria autonomous territorial unit
+363,Mozambique,Al Hoceïma
+364,Mozambique,L'Oriental
+365,Mozambique,Taourirt
+366,Mozambique,Taroudannt
+367,Mozambique,Tiznit
+368,New Zealand,Sint Eustatius
+369,Niger,Nelson Region
+370,Niger,Northland Region
+371,Niger,Tasman District
+372,Norfolk Island,Abia
+373,Norfolk Island,Adamawa
+374,Norfolk Island,Anambra
+375,Norfolk Island,Ondo
+376,Norfolk Island,Oyo
+377,Norway,Oslo
+378,Oman,Al Wusta
+379,Oman,Musandam
+380,Papua new Guinea,Eastern Highlands Province
+381,Papua new Guinea,Enga Province
+382,Peru,Arequipa
+383,Philippines,Abra
+384,Philippines,Aurora
+385,Philippines,Occidental Mindoro
+386,Philippines,Oriental Mindoro
+387,Poland,Podkarpackie Voivodeship
+388,Poland,Podlaskie Voivodeship
+389,Poland,Pomeranian Voivodeship
+390,Puerto Rico,Aguada
+391,Puerto Rico,Aguadilla
+392,Puerto Rico,Salinas
+393,Qatar,Al-Shahaniya
+394,Romania,Alba
+395,Russia,Chechen Republic
+396,Russia,Chuvash Republic
+397,Russia,Tambov Oblast
+398,Russia,Tomsk Oblast
+399,Russia,Tula Oblast
+400,Russia,Tver Oblast
+401,Russia,Tyumen Oblast
+402,Rwanda,Eastern Province
+403,Saint Kitts And Nevis,Saint Kitts
+404,Samoa,A'ana
+405,Samoa,Atua
+406,San Marino,Acquaviva
+407,Saudi Arabia,Eastern Province
+408,Saudi Arabia,Najran
+409,Senegal,Kaolack
+410,Senegal,Matam
+411,Senegal,Saint-Louis
+412,Serbia,Toplica District
+413,Seychelles,Saint Louis
+414,Sierra Leone,Eastern Province
+415,Sint Maarten (Dutch part),Nitra Region
+416,Somalia,Eastern Cape
+417,Somalia,Gauteng
+418,South Korea,A Coruña
+419,South Korea,Almeria
+420,South Korea,Araba
+421,South Sudan,Eastern Province
+422,South Sudan,Trincomalee District
+423,Spain,North Kordofan
+424,Spain,Northern
+425,Swaziland,Nidwalden
+426,Sweden,As-Suwayda
+427,Taiwan,Arusha
+428,Tajikistan,Maha Sarakham
+429,Tajikistan,Nakhon Sawan
+430,Tajikistan,Nan
+431,Tajikistan,Trat
+432,Bahrain,South Andros
+433,Bahrain,Spanish Wells
+434,Togo,Arima
+435,Tokelau,Ariana
+436,Tonga,Adana
+437,Tonga,Amasya
+438,Tonga,Ankara
+439,Tonga,Antalya
+440,Tonga,Edirne
+441,Tonga,Karabük
+442,Tonga,Sivas
+443,Tonga,Tokat
+444,Turkmenistan,Northern Region
+445,Turkmenistan,Tororo District
+446,Turks And Caicos Islands,Autonomous Republic of Crimea
+447,Turks And Caicos Islands,Ternopilska oblast
+448,Uganda,East Ayrshire
+449,Uganda,East Dunbartonshire
+450,Uganda,East Renfrewshire
+451,Uganda,East Riding of Yorkshire
+452,Uganda,Larne Borough Council
+453,Uganda,Limavady Borough Council
+454,Uganda,Lisburn City Council
+455,Uganda,Liverpool
+456,Uganda,Mid and East Antrim
+457,Uganda,"Newry, Mourne and Down"
+458,Uganda,Scottish Borders
+459,Uganda,Shetland Islands
+460,Uganda,St Helens
+461,Uganda,Stockton-on-Tees
+462,Ukraine,Alabama
+463,Ukraine,Alaska
+464,Ukraine,American Samoa
+465,Ukraine,Arizona
+466,Ukraine,Ohio
+467,United States,Namangan Region
+468,United States,Navoiy Region
+469,United States,Tashkent
+470,Uzbekistan,Aragua
+471,Uzbekistan,Yaracuy
+472,Vanuatu,Hà Tĩnh
+473,Vanuatu,Hồ Chí Minh
+474,Vanuatu,Hòa Bình
+475,Vanuatu,Nghệ An
+476,Vanuatu,Ninh Thuận
+477,Venezuela,Saint Thomas
+478,Virgin Islands (US),Hajjah
+479,Wallis And Futuna Islands,Eastern Province
+480,Afghanistan,Nuristan
+481,Albania,Tepelenë District
+482,Albania,Tirana District
+483,Albania,Tropojë District
+484,Algeria,Aïn Defla
+485,Algeria,Annaba
+486,Algeria,Illizi
+487,Algeria,Mostaganem
+488,Algeria,Sidi Bel Abbès
+489,Algeria,Souk Ahras
+490,Algeria,Tamanghasset
+491,Algeria,Tiaret
+492,Algeria,Tissemsilt
+493,Algeria,Touggourt
+494,Andorra,Andorra la Vella
+495,Andorra,Ordino
+496,Argentina,Neuquén
+497,Argentina,San Luis
+498,Azerbaijan,Tartar District
+499,Azerbaijan,Tovuz District
+500,Bangladesh,Northern
+501,Barbados,Tangail District
+502,Barbados,Thakurgaon District
+503,Belarus,Saint James
+504,Belarus,Saint Thomas
+505,Benin,Toledo District
+506,Bhutan,Saint George's
+507,Bhutan,Sandys
+508,Bhutan,Smith's
+509,Bolivia,Thimphu District
+510,Bolivia,Trashigang District
+511,Bolivia,Trongsa District
+512,Bolivia,Tsirang District
+513,"Bonaire, Sint Eustatius and Saba",Tarija Department
+514,New Caledonia,Sint Eustatius
+515,Brunei,Temburong District
+516,Brunei,Tutong District
+517,Cameroon,Adamawa
+518,Cameroon,Littoral
+519,Canada,Alberta
+520,Canada,Ontario
+521,Cape Verde,São Domingos
+522,Cape Verde,São Lourenço dos Órgãos
+523,Cape Verde,Sotavento Islands
+524,Chad,Logone Occidental
+525,Chad,Logone Oriental
+526,Chile,Antofagasta
+527,Chile,Arica y Parinacota
+528,Chile,Atacama
+529,China,Guangdong
+530,China,Guangxi Zhuang
+531,Colombia,Antioquia
+532,Colombia,Arauca
+533,Colombia,"Archipiélago de San Andrés, Providencia y Santa Catalina"
+534,Czech Republic,Jihočeský kraj
+535,Czech Republic,Jihomoravský kraj
+536,Czech Republic,Nový Jičín
+537,Czech Republic,Ostrava-město
+538,Czech Republic,Vyškov
+539,Cook Islands,Ituri
+540,Democratic Republic of the Congo,North Denmark Region
+541,Dominica,El Seibo Province
+542,Dominica,Espaillat Province
+543,Dominica,San Pedro de Macorís
+544,East Timor,Santo Domingo de los Tsáchilas
+545,East Timor,Sucumbíos
+546,Ecuador,Alexandria
+547,Equatorial Guinea,Northern Red Sea Region
+548,Estonia,Addis Ababa
+549,Faroe Islands,Northern Division
+550,Finland,Essonne
+551,Finland,Eure
+552,Finland,Seine-Saint-Denis
+553,Finland,Territoire de Belfort
+554,French Southern Territories,Estuaire Province
+555,Gabon,North Bank Division
+556,Gambia The,Abkhazia
+557,Gambia The,Adjara
+558,Gambia The,Imereti
+559,Germany,Northern
+560,Gibraltar,East Macedonia and Thrace
+561,Gibraltar,Thessaloniki Regional Unit
+562,Guam,Totonicapán Department
+563,Guernsey and Alderney,Nzérékoré Region
+564,Guinea-Bissau,East Berbice-Corentyne
+565,Hungary,Northeastern Region
+566,Hungary,Northwestern Region
+567,Iceland,Himachal Pradesh
+568,Iceland,Mizoram
+569,Indonesia,North Khorasan
+570,Iran,Al Muthanna
+571,Iran,Kirkuk
+572,Iraq,Wicklow
+573,Ireland,Tel Aviv District
+574,Israel,Alessandria
+575,Israel,Ancona
+576,Israel,Apulia
+577,Israel,Oristano
+578,Italy,Hanover Parish
+579,Jamaica,Ehime Prefecture
+580,Jersey,Aqaba
+581,Jersey,Karak
+582,Jordan,North Kazakhstan Region
+583,Jordan,Nur-Sultan
+584,Kazakhstan,Uasin Gishu
+585,Kuwait,Al Jahra
+586,Kyrgyzstan,Naryn Region
+587,Lesotho,Thaba-Tseka District
+588,Libya,Tripoli District
+589,Malaysia,Northern Region
+590,Malaysia,Thyolo District
+591,Maldives,Negeri Sembilan
+592,Mali,Laamu Atoll
+593,Mali,Lhaviyani Atoll
+594,Man (Isle of),St. Julian's
+595,Mauritius,Assaba
+596,Mauritius,Inchiri
+597,Mauritius,Tagant
+598,Mayotte,Saint Brandon Islands
+599,Micronesia,Nuevo León
+600,Monaco,Taraclia District
+601,Monaco,Telenești District
+602,Monaco,Transnistria autonomous territorial unit
+603,Mozambique,Al Hoceïma
+604,Mozambique,L'Oriental
+605,Mozambique,Taourirt
+606,Mozambique,Taroudannt
+607,Mozambique,Tiznit
+608,New Zealand,Sint Eustatius
+609,Niger,Nelson Region
+610,Niger,Northland Region
+611,Niger,Tasman District
+612,Norfolk Island,Abia
+613,Norfolk Island,Adamawa
+614,Norfolk Island,Anambra
+615,Norfolk Island,Ondo
+616,Norfolk Island,Oyo
+617,Norway,Oslo
+618,Oman,Al Wusta
+619,Oman,Musandam
+620,Papua new Guinea,Eastern Highlands Province
+621,Papua new Guinea,Enga Province
+622,Peru,Arequipa
+623,Philippines,Abra
+624,Philippines,Aurora
+625,Philippines,Occidental Mindoro
+626,Philippines,Oriental Mindoro
+627,Poland,Podkarpackie Voivodeship
+628,Poland,Podlaskie Voivodeship
+629,Poland,Pomeranian Voivodeship
+630,Puerto Rico,Aguada
+631,Puerto Rico,Aguadilla
+632,Puerto Rico,Salinas
+633,Qatar,Al-Shahaniya
+634,Romania,Alba
+635,Russia,Chechen Republic
+636,Russia,Chuvash Republic
+637,Russia,Tambov Oblast
+638,Russia,Tomsk Oblast
+639,Russia,Tula Oblast
+640,Russia,Tver Oblast
+641,Russia,Tyumen Oblast
+642,Rwanda,Eastern Province
+643,Saint Kitts And Nevis,Saint Kitts
+644,Samoa,A'ana
+645,Samoa,Atua
+646,San Marino,Acquaviva
+647,Saudi Arabia,Eastern Province
+648,Saudi Arabia,Najran
+649,Senegal,Kaolack
+650,Senegal,Matam
+651,Senegal,Saint-Louis
+652,Serbia,Toplica District
+653,Seychelles,Saint Louis
+654,Sierra Leone,Eastern Province
+655,Sint Maarten (Dutch part),Nitra Region
+656,Somalia,Eastern Cape
+657,Somalia,Gauteng
+658,South Korea,A Coruña
+659,South Korea,Almeria
+660,South Korea,Araba
+661,South Sudan,Eastern Province
+662,South Sudan,Trincomalee District
+663,Spain,North Kordofan
+664,Spain,Northern
+665,Swaziland,Nidwalden
+666,Sweden,As-Suwayda
+667,Taiwan,Arusha
+668,Tajikistan,Maha Sarakham
+669,Tajikistan,Nakhon Sawan
+670,Tajikistan,Nan
+671,Tajikistan,Trat
+672,Bahrain,South Andros
+673,Bahrain,Spanish Wells
+674,Togo,Arima
+675,Tokelau,Ariana
+676,Tonga,Adana
+677,Tonga,Amasya
+678,Tonga,Ankara
+679,Tonga,Antalya
+680,Tonga,Edirne
+681,Tonga,Karabük
+682,Tonga,Sivas
+683,Tonga,Tokat
+684,Turkmenistan,Northern Region
+685,Turkmenistan,Tororo District
+686,Turks And Caicos Islands,Autonomous Republic of Crimea
+687,Turks And Caicos Islands,Ternopilska oblast
+688,Uganda,East Ayrshire
+689,Uganda,East Dunbartonshire
+690,Uganda,East Renfrewshire
+691,Uganda,East Riding of Yorkshire
+692,Uganda,Larne Borough Council
+693,Uganda,Limavady Borough Council
+694,Uganda,Lisburn City Council
+695,Uganda,Liverpool
+696,Uganda,Mid and East Antrim
+697,Uganda,"Newry, Mourne and Down"
+698,Uganda,Scottish Borders
+699,Uganda,Shetland Islands
+700,Uganda,St Helens
+701,Uganda,Stockton-on-Tees
+702,Ukraine,Alabama
+703,Ukraine,Alaska
+704,Ukraine,American Samoa
+705,Ukraine,Arizona
+706,Ukraine,Ohio
+707,United States,Namangan Region
+708,United States,Navoiy Region
+709,United States,Tashkent
+710,Uzbekistan,Aragua
+711,Uzbekistan,Yaracuy
+712,Vanuatu,Hà Tĩnh
+713,Vanuatu,Hồ Chí Minh
+714,Vanuatu,Hòa Bình
+715,Vanuatu,Nghệ An
+716,Vanuatu,Ninh Thuận
+717,Venezuela,Saint Thomas
+718,Virgin Islands (US),Hajjah
+719,Wallis And Futuna Islands,Eastern Province

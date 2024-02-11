@@ -1,4 +1,8 @@
-from src.main import main
+import colorama
+from src.cli.cli import CliDriver
+
+colorama.init()
 
 if __name__ == "__main__":
-    main()
+    cli_driver = CliDriver()
+    cli_driver.select_option()

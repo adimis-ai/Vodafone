@@ -3,7 +3,6 @@ from .db_models import Country, State, City
 from sqlalchemy import func
 from typing import List
 from ..config.config import Config
-import json
 
 class DBOperations:
     def __init__(self):
@@ -33,19 +32,19 @@ class DBOperations:
         countries = [Country(name=name, first_letter=first_letter, last_letter=last_letter) for name, first_letter, last_letter in countries_data]
         self.db_connector.session.add_all(countries)
         self.db_connector.session.commit()
-        print("Added countries in bulk.")
+        print(f"Added {len(countries)} countries in bulk.")
 
     def insert_states_bulk(self, states_data: List[tuple]):
         states = [State(name=name, country_id=country_id, first_letter=first_letter, last_letter=last_letter, is_capital_state=is_capital_state) for name, country_id, first_letter, last_letter, is_capital_state in states_data]
         self.db_connector.session.add_all(states)
         self.db_connector.session.commit()
-        print("Added states in bulk.")
+        print(f"Added {len(states)} states in bulk.")
 
     def insert_cities_bulk(self, cities_data: List[tuple]):
         cities = [City(name=name, state_id=state_id, country_id=country_id) for name, state_id, country_id in cities_data]
         self.db_connector.session.add_all(cities)
         self.db_connector.session.commit()
-        print("Added cities in bulk.")
+        print(f"Added {len(cities)} cities in bulk.")
 
     def get_all_countries(self):
         return self.db_connector.session.query(Country).all()
