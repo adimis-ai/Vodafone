@@ -1,35 +1,16 @@
 import os
-import sqlite3
+from .db_models import Base
+from sqlalchemy import create_engine
+from sqlalchemy.orm import sessionmaker
 
 class DBConnector:
-    def __init__(self, db_file):
-        self.db_file = db_file
-        self.client = self._connect()
+    def __init__(self, db_name):
+        self.db_name = db_name
+        db_path = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'data', self.db_name))
+        self.engine = create_engine(f"sqlite:///{db_path}")
+        Base.metadata.create_all(self.engine)
+        Session = sessionmaker(bind=self.engine)
+        self.session = Session()
 
-    def _connect(self):
-        try:
-            db_path = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'data', self.db_file))
-            print("Db Path: ", db_path)
-            if not os.path.exists(db_path):
-                print("Database file does not exist. Creating a new one.")
-            return sqlite3.connect(db_path)
-        except sqlite3.Error as e:
-            print(f"Error connecting to database: {e}")
-            return None
-
-    def close(self):
-        if self.client:
-            self.client.close()
-            print("Connection to database closed")
-
-    def get_db_client(self):
-        return self.client
-
-# Example usage:
-if __name__ == "__main__":
-    connector = DBConnector('example.db')
-    if connector.get_db_client():
-        connector.get_db_client().execute("SELECT * FROM users")
-        connector.close()
-    else:
-        print("Failed to establish connection to the database.")
+    def close_connection(self):
+        self.session.close()

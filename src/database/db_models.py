@@ -40,8 +40,6 @@ class City(Base):
     name = Column(String(100), nullable=False)
     state_id = Column(Integer, ForeignKey('state.state_id'), nullable=False)
     country_id = Column(Integer, ForeignKey('country.country_id'), nullable=False)
-    is_prime_length = Column(Boolean, nullable=False)
-    is_capital_city = Column(Boolean, nullable=False, default=False)
 
     state = relationship('State', back_populates='cities')
     country = relationship('Country')
